@@ -1009,7 +1009,7 @@ This is a live doc that captures the status of all the APIs which have been form
         <a href="https://github.com/camaraproject/APIBacklog/pull/243">Template</a><div>2024/11/26</div>
       </td>
       <td><ul><li>TSC Approved (2025/10/02) & Onboarding under GSMA (2025/11/25)</li></ul></td>
-      <td>Pending</td>
+      <td>Under GSMA</td>
       <td>N/A</td>
     </tr>
     </tr>
