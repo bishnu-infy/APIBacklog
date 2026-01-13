@@ -858,7 +858,7 @@ This is a live doc that captures the status of all the APIs which have been form
       <th>Consent URL</th>
       <td>Telefonica*<div>Telefonica, KPN </div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/pull/67">Template</a><div>2024/07/17</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API_Proposal_Consent_URL_API.md">Template</a><div>2024/07/17</div>
       </td>
       <td><ul><li>TSC Approved (2025/03/06)</li></ul></td>
       <td>
@@ -953,7 +953,7 @@ This is a live doc that captures the status of all the APIs which have been form
       <th>Voice Verification Code</th>
       <td>China Unicom*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/pull/161">Template</a><div>2024/12/13</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/APIproposal_Voice%20Verification%20Code_chinaunicom.md">Template</a><div>2024/12/13</div>
       </td>
       <td><ul><li>TSC Approved (2025/06/05)</li></ul></td>
       <td>
@@ -966,7 +966,7 @@ This is a live doc that captures the status of all the APIs which have been form
       <th>Multi Point VPN</th>
       <td>Infosys Ltd*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/issues/205">Template</a><div>2025/04/25</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API-proposal-Multi_Point_VPN.md">Template</a><div>2025/04/25</div>
       </td>
       <td><ul><li>TSC Approved (2025/06/05)</li></ul></td>
       <td>
@@ -979,7 +979,7 @@ This is a live doc that captures the status of all the APIs which have been form
       <th>Sponsored Data</th>
       <td>Telecom Argentina S.A.*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/pull/224">Template</a><div>2025/06/02</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API-proposal-Sponsored_Data.v1.md">Template</a><div>2025/06/02</div>
       </td>
       <td><ul><li>TSC Approved (2025/09/18) & Onboarded (2025/09/24)</li></ul></td>
       <td>
@@ -1006,37 +1006,43 @@ This is a live doc that captures the status of all the APIs which have been form
       <th>Fraud Hotzone Alert</th>
       <td>Chunghwa Telecom*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/pull/243">Template</a><div>2024/11/26</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API%20Proposal_Fraud%20Hotzone%20Report.md">Template</a><div>2024/11/26</div>
       </td>
       <td><ul><li>TSC Approved (2025/10/02) & Onboarding under GSMA (2025/11/25)</li></ul></td>
       <td>Under GSMA</td>
       <td>N/A</td>
     </tr>
     </tr>
-      <th>Radio Signal Strength</th>
+      <th>Rainfall Intensity</th>
       <td>Ericsson*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/issues/267">Template</a><div>2025/10/20</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API-proposal-Strength_Rainfall.md">Template</a><div>2025/10/20</div>
       </td>
       <td><ul><li>TSC Approved & Onboarding (2025/12/18)</li></ul></td>
-      <td>N/A</td>
+      <td>
+        <a href="https://github.com/camaraproject/RainfallIntensity">RainfallIntensity</a>
+        <a href="https://github.com/camaraproject/RainfallIntensity/blob/main/MAINTAINERS.MD">Maintainers</a>
+      </td>  
       <td>N/A</td>
     </tr>
     </tr>
       <th>In Home Device Management API</th>
       <td>Infosys*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/issues/250">Template</a><div>2025/08/09</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API-proposal-InHome_Device_Network_Management.md">Template</a><div>2025/08/09</div>
       </td>
       <td><ul><li>TSC Approved & Onboarding (2025/12/18)</li></ul></td>
-      <td>N/A</td>
+      <td>
+        <a href="https://github.com/camaraproject/InHomeDeviceManagement">InHomeDeviceManagement</a>
+        <a href="https://github.com/camaraproject/InHomeDeviceManagement/blob/main/MAINTAINERS.MD">Maintainers</a>
+      </td>  
       <td>N/A</td>
     </tr>
     </tr>
       <th>Consent Management API</th>
       <td>Telefónica*<div></div></td>
       <td>
-        <a href="https://github.com/camaraproject/APIBacklog/issues/276">Template</a><div>2025/11/05</div>
+        <a href="https://github.com/camaraproject/APIBacklog/blob/main/documentation/API%20proposals/API-Scope_Enhancement_Consent_Info_Controlled_Delegation.md">Template</a><div>2025/11/05</div>
       </td>
       <td><ul><li>TSC Approved & Onboarding (2025/12/18)</li></ul></td>
       <td>
